@@ -40,6 +40,10 @@ components:
           type: string
         text:
           type: string
+        number:
+          type: integer
+        bool:
+          type: boolean
       required:
         - id
         - text
